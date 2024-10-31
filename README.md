@@ -255,21 +255,6 @@ df.loc[non_numeric_profits].head()
 
 
 
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -358,7 +343,7 @@ bin_sizes, _, _ = plt.hist(df.year[non_numeric_profits], bins = range(1955,2006)
 ```
 
 
-![png](output_11_0.png)
+[png](output_11_0.png)
 
 
 
