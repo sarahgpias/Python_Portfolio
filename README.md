@@ -2,7 +2,7 @@
 This is the portfolio of python code that I learned during Fall 2024, BISC 450C
 
 
-
+## Using Jupyter Notebooks 1&2
 ```python
 %matplotlib inline
 import pandas as pd
@@ -37,7 +37,7 @@ df.head()
     .dataframe thead th {
         text-align: right;
     }
-</style>
+    
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
